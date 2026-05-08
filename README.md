@@ -8,7 +8,7 @@ Are we allocating our $30.6M marketing budget efficiently across channels? Which
 ## 📁 Files
 | File | Description |
 |------|-------------|
-| `marketing-campaign-analysis-clean.sql` | Full SQL analysis (import → validation → EDA → analysis) |
+| `marketing-campaign-analysis.sql` | Full SQL analysis (import → validation → EDA → analysis) |
 | `marketing-campaign-writeup.docx` | Project write-up with findings and recommendations |
 
 ## 🔑 Key Findings
