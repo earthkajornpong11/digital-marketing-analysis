@@ -25,7 +25,7 @@ CREATE TABLE marketing_dataset(
 
 DESCRIBE marketing_dataset;
 
-LOAD DATA LOCAL INFILE '/Users/kajornpongjee-in/Desktop/2026 your year Earth/Data Analyst/Project/Marketing/Marketing.csv'
+LOAD DATA LOCAL INFILE '/your/local/path/Marketing.csv'
 INTO TABLE marketing_dataset
 CHARACTER SET utf8mb4
 FIELDS TERMINATED BY ','
@@ -629,4 +629,4 @@ GROUP BY tier_type;
 -- Other channels (YouTube, Google, Banner) have no tier designation
 -- so this analysis reflects social channel geo performance only
         
-            
+
